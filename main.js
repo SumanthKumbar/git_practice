@@ -1,4 +1,4 @@
-console.log("Start main.js");
+console.log("Start");
 
 function fibonacci(n) {
 	if (n == 0 || n == 1) return n;
